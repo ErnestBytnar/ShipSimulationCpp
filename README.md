@@ -28,7 +28,7 @@
 
 1. **Sklonuj repozytorium**:
    ```bash
-   git clone https://github.com/ErnestBytnar/statki.git
+   git clone https://github.com/ErnestBytnar/sShipSimulationCpp.git
    cd statki
 
 
